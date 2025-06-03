@@ -8,7 +8,7 @@
   "privacyPolicyUrl": "https://neuralone.github.io/",
   "termsOfServiceUrl": "https://neuralone.github.io/",
   "packageUrl": "https://neuralone.github.io/neural-one-data-viz/",
-  "devMode": true,
+  "devMode": false,
   "components": [
     {
       "id": "user_paths_sankey",
