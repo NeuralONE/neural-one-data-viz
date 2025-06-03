@@ -2,22 +2,22 @@
   "name": "User Paths Sankey",
   "organization": "NeuralOne",
   "description": "Visualización Sankey personalizada sin ciclos",
-  "logoUrl": "https://neuralone.github.io/neural-one-data-viz/sankey-paths-viz/icon.png",
-  "organizationUrl": "https://neuralone.github.io/",
-  "supportUrl": "https://neuralone.github.io/",
-  "privacyPolicyUrl": "https://neuralone.github.io/",
-  "termsOfServiceUrl": "https://neuralone.github.io/",
-  "packageUrl": "https://neuralone.github.io/neural-one-data-viz/",
-  "devMode": true,
+  "logoUrl": "https://storage.googleapis.com/neural-one-data-viz/sankey-paths-viz/icon.png",
+  "organizationUrl": "https://neuralone.ai/",
+  "supportUrl": "https://neuralone.ai/soporte",
+  "privacyPolicyUrl": "https://neuralone.ai/politica-privacidad",
+  "termsOfServiceUrl": "https://neuralone.ai/terminos",
+  "packageUrl": "https://storage.googleapis.com/neural-one-data-viz/",
+  "devMode": false,
   "components": [
     {
       "id": "user_paths_sankey",
       "name": "User Paths Sankey",
       "description": "Visualización Sankey personalizada sin ciclos",
-      "iconUrl": "https://neuralone.github.io/neural-one-data-viz/sankey-paths-viz/icon.png",
+      "iconUrl": "https://storage.googleapis.com/neural-one-data-viz/sankey-paths-viz/icon.png",
       "resource": {
-        "js": "https://neuralone.github.io/neural-one-data-viz/sankey-paths-viz/viz.js",
-        "html": "https://neuralone.github.io/neural-one-data-viz/sankey-paths-viz/index.html"
+        "js": "https://storage.googleapis.com/neural-one-data-viz/sankey-paths-viz/viz.js",
+        "html": "https://storage.googleapis.com/neural-one-data-viz/sankey-paths-viz/index.html"
       },
       "style": {
         "width": "100%",
