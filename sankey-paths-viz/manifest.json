@@ -1,0 +1,17 @@
+{
+  "name": "User Paths Sankey",
+  "vendor": "NeuralOne",
+  "description": "Visualización Sankey personalizada sin ciclos",
+  "resources": {
+    "js": ["viz.js"],
+    "html": "index.html"
+  },
+  "style": {
+    "width": "100%",
+    "height": "100%"
+  },
+  "data": {
+    "dimensions": ["ConversionID", "Step", "TPDatetime"],
+    "metrics": []
+  }
+}
